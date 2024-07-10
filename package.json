@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Teforch/Learngit/issues"
   },
-  "homepage": "https://github.com/Teforch/Learngit#readme"
+  "homepage": "https://github.com/Teforch/Learngit#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
