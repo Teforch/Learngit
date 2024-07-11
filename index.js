@@ -1,3 +1,3 @@
-import _ from "lodash";
+import index_js from './src/index.js';
 
-console.log(_.last(["one", "two"]));
+index_js()
